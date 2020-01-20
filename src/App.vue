@@ -32,7 +32,7 @@
       </a-camera>
 
       <a-gltf-model hide-targets
-                    geometry-merger="preserveOriginal: false" src="/models/factory.glb"
+                    src="/models/factory.glb"
                     >
         <a-gltf-model src="/floor.glb"
                       position="0 -5.6 0"></a-gltf-model>
